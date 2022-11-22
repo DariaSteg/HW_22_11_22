@@ -26,6 +26,7 @@ function averageNumber(){
     return maxnElem;
   }
   
+  
   function changeMinElem(array) {
   let maxnElem = getMax(array);
    for (let i = 0; i < array.length; i++) {
